@@ -1,4 +1,4 @@
-# Blind-75-LeetCode-Challenge
+[# Blind-75-LeetCode-Challenge
 
 
 Array
@@ -90,3 +90,4 @@ Find Median from Data Stream
 Important Link:
 14 Patterns to Ace Any Coding Interview Question
 Grind 75
+](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
