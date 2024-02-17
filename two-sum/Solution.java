@@ -5,17 +5,6 @@ public class Solution{
 
     public static void main(String[] args)
     {
-        // int[] nums = {2,7,11,15};
-        // int target = 9;
-
-
-        // int[] indexes = twoSum(nums, target);
-
-        // for(int index: indexes)
-        // {
-        //     System.out.println(index);
-        // }
-
 
         int[] nums2 = {3, 2, 4};
         int target2 = 6;
