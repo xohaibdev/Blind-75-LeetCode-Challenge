@@ -30,7 +30,7 @@ public class Variation3 {
 
         int[] prev = {};
         
-        for(int i =0; i<nums.length; i++)
+        for(int i =0; i< nums.length; i++)
         {
             int sum = target - nums[i];
 
